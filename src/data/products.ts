@@ -4,9 +4,17 @@ import spinach from "@/assets/p-spinach.jpg";
 import onion from "@/assets/p-onion.jpg";
 import pepper from "@/assets/p-pepper.jpg";
 import garlic from "@/assets/p-garlic.jpg";
+import potato from "@/assets/p-potato.jpg";
+import cauliflower from "@/assets/p-cauliflower.jpg";
+import brinjal from "@/assets/p-brinjal.jpg";
+import okra from "@/assets/p-okra.jpg";
+import cucumber from "@/assets/p-cucumber.jpg";
 import fruitBowl from "@/assets/fruit-bowl.jpg";
 import mealKit from "@/assets/meal-kit.jpg";
 import meat from "@/assets/meat.jpg";
+import mutton from "@/assets/p-mutton.jpg";
+import prawns from "@/assets/p-prawns.jpg";
+import fish from "@/assets/p-fish.jpg";
 import cutVeggies from "@/assets/cut-veggies.jpg";
 
 export type Category =
